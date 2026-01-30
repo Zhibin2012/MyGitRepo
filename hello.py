@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-print("Hello World!", end="")
-=======
-print("Hello World!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!", end="")
->>>>>>> parent of 7aad5b3 (第四次提交，刪除hello.py)
+print("Hello World!!!!!!!!!!!!!!!!!!!!!!!!!!!!!", end="")
+print("測試 local與 origin同步", end="")
